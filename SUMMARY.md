@@ -4,7 +4,9 @@
 
 ## Group 1
 
-* [Page 1](group-1/page-1.md)
-* [Page](group-1/page/README.md)
-  * [Page 2](group-1/page/page-2.md)
-* [Page 3](group-1/page-3.md)
+* [Red](group-1/page-1/README.md)
+  * [Red 2](group-1/page-1/red-2.md)
+* [Green](group-1/green/README.md)
+  * [Green 2](group-1/green/green-2.md)
+* [Blue](group-1/blue/README.md)
+  * [Blue 2](group-1/blue/blue-2.md)
