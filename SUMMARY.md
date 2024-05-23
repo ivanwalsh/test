@@ -1,6 +1,6 @@
 # Table of contents
 
-* [README](README.md)
+* [Agile Technical Documentation](README.md)
 
 ## Group 1
 
