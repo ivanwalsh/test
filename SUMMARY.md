@@ -14,4 +14,3 @@
   * [Setting Up Remote Teams](toc/team-management/setting-up-remote-teams.md)
 * [Technical Writing Career](toc/technical-writing-career/README.md)
   * [Getting Started as a Technical Writer](toc/technical-writing-career/getting-started-as-a-technical-writer.md)
-* [Sub Page 1](toc/sub-page-1.md)
