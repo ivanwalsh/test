@@ -1,5 +1,7 @@
 ---
 description: Learn how to manage technical documentation teams
+cover: ../../.gitbook/assets/kasuma (7).png
+coverY: 0
 ---
 
 # Team Management

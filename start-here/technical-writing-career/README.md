@@ -1,5 +1,7 @@
 ---
 description: Learn how to start and develop a career in technical documentation
+cover: ../../.gitbook/assets/vector-embedding (11).png
+coverY: 0
 ---
 
 # Technical Writing Career

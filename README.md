@@ -1,5 +1,7 @@
 ---
 description: Learn how to write, review, and publish agile technical documentation
+cover: .gitbook/assets/vector-embedding (9).png
+coverY: 0
 ---
 
 # Agile Technical Documentation

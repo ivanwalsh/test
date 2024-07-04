@@ -1,8 +1,10 @@
 ---
 description: Learn how to write Agile technical documentation.
+cover: ../../.gitbook/assets/vector-embedding (11).png
+coverY: 0
 ---
 
-# Agile Tech Docs
+# Agile Technical Documentation
 
 Agile
 
