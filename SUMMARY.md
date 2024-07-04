@@ -7,7 +7,7 @@
 * [Agile Technical Documentation](toc/page-1/README.md)
   * [What is Agile Technical Documentation?](toc/page-1/what-is-agile-technical-documentation.md)
   * [How to Setup Scrum for Tech Docs](toc/page-1/how-to-setup-scrum-for-tech-docs.md)
-  * [Copy of How does Scrum apply to Technical Documentation?](toc/page-1/copy-of-how-does-scrum-apply-to-technical-documentation.md)
+  * [How to Setup Scrum for Technical Documentation Team](toc/page-1/how-to-setup-scrum-for-technical-documentation-team.md)
 * [API Docs](toc/api-docs/README.md)
   * [Setting Up API Reference Documentation](toc/api-docs/setting-up-api-reference-documentation.md)
   * [Setting up API Reference Documentation](toc/api-docs/setting-up-api-reference-documentation-1.md)
@@ -20,3 +20,7 @@
   * [Setting Up Remote Teams](toc/team-management/setting-up-remote-teams.md)
 * [Technical Writing Career](toc/technical-writing-career/README.md)
   * [Getting Started as a Technical Writer](toc/technical-writing-career/getting-started-as-a-technical-writer.md)
+
+***
+
+* [About Ivan](about-ivan.md)
