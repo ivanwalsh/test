@@ -1,5 +1,5 @@
 ---
-description: Learn how to setup a technical writing website with Docusaurus
+description: Learn how to create, document, and publish Open API specifications.
 ---
 
 # Open API Swagger

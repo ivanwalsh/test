@@ -16,5 +16,5 @@ I can guide your team through transitions, optimize workflows, and deliver high-
 
 Agile documentation allows you to create and maintain complex technical documentation based on the principles of Agile software development. In Agile, the focus is to deliver software quickly and iteratively, with an emphasis on flexibility and collaboration.
 
-[Interested](learning-path/about-ivan.md)?&#x20;
+[Interested](toolkit/about-ivan.md)?&#x20;
 

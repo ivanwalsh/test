@@ -26,5 +26,10 @@
 * [Docusaurus](learning-path/docusaurus.md)
 * [Postman for API Testing](learning-path/postman-for-api-testing.md)
 * [Open API Swagger](learning-path/open-api-swagger.md)
-* [Newsletter](learning-path/newsletter.md)
-* [About Ivan](learning-path/about-ivan.md)
+
+## Toolkit
+
+* [Software](toolkit/software.md)
+* [Books](toolkit/books.md)
+* [Newsletter](toolkit/newsletter.md)
+* [About Ivan](toolkit/about-ivan.md)

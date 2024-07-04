@@ -1,5 +1,5 @@
 ---
-description: Learn how to setup a technical writing website with Docusaurus
+description: Learn how to test APIs with Postman.
 ---
 
 # Postman for API Testing
