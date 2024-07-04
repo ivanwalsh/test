@@ -6,6 +6,10 @@ coverY: 0
 
 # Newsletter
 
-You can [signup to the newsletter over here](https://ivanwalsh.beehiiv.com/subscribe). Subscribe [here](https://magic.beehiiv.com/v1/7eeceffc-3255-401e-99f7-d04069988782?email=\{{email\}})
+You can [signup to the newsletter over here](https://ivanwalsh.beehiiv.com/subscribe).&#x20;
 
-&#x20;
+### Sign Up to the newsletter
+
+```
+<script src="https://embeds.beehiiv.com/recommendations.js?_bhpid=7eeceffc-3255-401e-99f7-d04069988782&v=1" data-beehiiv-recommendations-widget defer></script>
+```
