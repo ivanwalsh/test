@@ -16,10 +16,6 @@ Projects
 
 Collaboration
 
-Agile&#x20;
-
-Scrum
-
 Productivity
 
 Metrics

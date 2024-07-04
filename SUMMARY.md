@@ -4,12 +4,18 @@
 
 ## TOC
 
-* [Agile Tech Docs](toc/page-1/README.md)
-  * [Red 2](toc/page-1/red-2.md)
+* [Agile Technical Documentation](toc/page-1/README.md)
+  * [What is Agile Technical Documentation?](toc/page-1/what-is-agile-technical-documentation.md)
+  * [How to Setup Scrum for Tech Docs](toc/page-1/how-to-setup-scrum-for-tech-docs.md)
+  * [Copy of How does Scrum apply to Technical Documentation?](toc/page-1/copy-of-how-does-scrum-apply-to-technical-documentation.md)
 * [API Docs](toc/api-docs/README.md)
-  * [Green 2](toc/api-docs/green-2.md)
+  * [Setting Up API Reference Documentation](toc/api-docs/setting-up-api-reference-documentation.md)
+  * [Setting up API Reference Documentation](toc/api-docs/setting-up-api-reference-documentation-1.md)
+  * [Using Docusaurus for API Reference Documentation](toc/api-docs/using-docusaurus-for-api-reference-documentation.md)
 * [AI Tech Docs](toc/ai-tech-docs/README.md)
-  * [Blue 2](toc/ai-tech-docs/blue-2.md)
+  * [Use Cases for AI Technical Documents](toc/ai-tech-docs/use-cases-for-ai-technical-documents.md)
+  * [Getting Started with AI for Technical Documentation](toc/ai-tech-docs/getting-started-with-ai-for-technical-documentation.md)
+  * [Copy of Prompts for AI Technical Documentation](toc/ai-tech-docs/copy-of-prompts-for-ai-technical-documentation.md)
 * [Team Management](toc/team-management/README.md)
   * [Setting Up Remote Teams](toc/team-management/setting-up-remote-teams.md)
 * [Technical Writing Career](toc/technical-writing-career/README.md)

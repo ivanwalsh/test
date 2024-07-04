@@ -1,8 +1,8 @@
 ---
-description: add text
+description: desc
 ---
 
-# Red 2
+# Copy of Prompts for AI Technical Documentation
 
 add text
 
