@@ -3,7 +3,7 @@ description: >-
   I write, publish, and enhance technical information assets. Great
   documentation reduces technical support costs, enhances your brand, and
   encourages customers to use your products.
-cover: .gitbook/assets/vector-embedding (23).png
+cover: ../.gitbook/assets/vector-embedding (23).png
 coverY: 0
 ---
 
