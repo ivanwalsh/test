@@ -27,7 +27,7 @@ Here's a checklist to get started with implementing Agile technical documentatio
 5. Establish a system to gather and incorporate user feedback
 6. Define clear acceptance criteria for documentation tasks
 7. Conduct regular retrospectives to improve processes
-8. Implement continuous integration for documentation builds, e.g. Git (CI/CD)
+8. Implement continuous integration for documentation builds, e.g. Git ([CI/CD](https://about.gitlab.com/topics/ci-cd/))
 9. Use Agile estimation techniques for documentation tasks. From what I’ve seen, story points work best. &#x20;
 10. Set up a system to measure and track documentation quality and impact
 

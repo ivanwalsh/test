@@ -24,3 +24,4 @@
 ***
 
 * [About Ivan](about-ivan.md)
+* [Newsletter](newsletter.md)
