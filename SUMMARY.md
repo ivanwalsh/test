@@ -6,8 +6,8 @@
 
 * [Agile Technical Documentation](toc/page-1/README.md)
   * [What is Agile Technical Documentation?](toc/page-1/what-is-agile-technical-documentation.md)
+  * [How to Apply Agile for Technical Documentation](toc/page-1/how-to-apply-agile-for-technical-documentation.md)
   * [How to Setup Scrum for Tech Docs](toc/page-1/how-to-setup-scrum-for-tech-docs.md)
-  * [How to Setup Scrum for Technical Documentation Team](toc/page-1/how-to-setup-scrum-for-technical-documentation-team.md)
 * [API Docs](toc/api-docs/README.md)
   * [Setting Up API Reference Documentation](toc/api-docs/setting-up-api-reference-documentation.md)
   * [Setting up API Reference Documentation](toc/api-docs/setting-up-api-reference-documentation-1.md)
