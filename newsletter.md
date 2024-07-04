@@ -6,6 +6,6 @@ coverY: 0
 
 # Newsletter
 
-Subscribe [here](https://magic.beehiiv.com/v1/7eeceffc-3255-401e-99f7-d04069988782?email=\{{email\}})
+You can [signup to the newsletter over here](https://ivanwalsh.beehiiv.com/subscribe). Subscribe [here](https://magic.beehiiv.com/v1/7eeceffc-3255-401e-99f7-d04069988782?email=\{{email\}})
 
 &#x20;
