@@ -1,5 +1,6 @@
 ---
 description: Learn how to start and develop a career in technical documentation
+hidden: true
 cover: ../../.gitbook/assets/vector-embedding (11).png
 coverY: 0
 ---
