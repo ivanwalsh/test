@@ -15,7 +15,7 @@
 * [AI Tech Docs](start-here/ai-tech-docs/README.md)
   * [Use Cases for AI Technical Documents](start-here/ai-tech-docs/use-cases-for-ai-technical-documents.md)
   * [Getting Started with AI for Technical Documentation](start-here/ai-tech-docs/getting-started-with-ai-for-technical-documentation.md)
-  * [Copy of Prompts for AI Technical Documentation](start-here/ai-tech-docs/copy-of-prompts-for-ai-technical-documentation.md)
+  * [Prompts for AI Technical Documentation](start-here/ai-tech-docs/prompts-for-ai-technical-documentation.md)
 * [Team Management](start-here/team-management/README.md)
   * [Setting Up Remote Teams](start-here/team-management/setting-up-remote-teams.md)
 * [Technical Writing Career](start-here/technical-writing-career/README.md)
