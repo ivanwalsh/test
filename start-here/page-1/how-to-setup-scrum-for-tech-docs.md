@@ -1,12 +1,12 @@
 ---
 description: >-
-  Have you considered using Scrum as a way to manage your technical
+  Have you considered using Agile/Scrum as a way to manage your technical
   documentation lifecycle?
 cover: ../../.gitbook/assets/string-theory (13).jpg
 coverY: 0
 ---
 
-# How to Setup Scrum for Tech Docs
+# How to Setup Agile/Scrum for Tech Docs
 
 As a technical writing manager, I've found that using a combination of Agile and Scrum has significantly improved both productivity and collaboration.&#x20;
 
